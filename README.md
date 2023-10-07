@@ -8,7 +8,7 @@ These instructions will help you get the package manager up and running on your 
 ### Prerequisites
 
 - Python 3.x
-- A directory for storing packages (default: `/var/packages/`)
+- A directory for storing packages (default: `/usr/bin/`)
 
 ### Usage
 
